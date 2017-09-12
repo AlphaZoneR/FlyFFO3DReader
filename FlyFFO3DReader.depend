@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1505201277 source:c:\users\split\documents\flyffo3dreader\flyffo3dreader\main.cpp
+	"LoadedObject.hpp"
+
+1505201469 c:\users\split\documents\flyffo3dreader\flyffo3dreader\utils.h
+	<vector>
+	"DirectX/d3dx9.h"
+	<windows.h>
+	<iostream>
+	"CMotion.h"
+
+1505036827 c:\users\split\documents\flyffo3dreader\flyffo3dreader\file.hpp
+	<TCHAR.H>
+	<stdio.h>
+	<io.h>
+	<windows.h>
+
+1505036931 source:c:\users\split\documents\flyffo3dreader\flyffo3dreader\file.cpp
+	<string.h>
+	<stdio.h>
+	"file.hpp"
+	"definetext.h"
+
+1505041990 source:c:\users\split\documents\flyffo3dreader\flyffo3dreader\cmotion.cpp
+	"CMotion.h"
+
+1505201457 c:\users\split\documents\flyffo3dreader\flyffo3dreader\cmotion.h
+	"Utils.h"
+	"file.hpp"
+
+1273266880 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9.h
+	<limits.h>
+	"d3d9.h"
+	"d3dx9math.h"
+	"d3dx9core.h"
+	"d3dx9mesh.h"
+	"d3dx9tex.h"
+	"d3dx9shader.h"
+	"d3dx9effect.h"
+	"d3dx9shape.h"
+	"d3dx9anim.h"
+
+1273266826 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3d9.h
+	<stdlib.h>
+	<objbase.h>
+	<windows.h>
+	"d3d9types.h"
+	"d3d9caps.h"
+
+1273266838 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3d9types.h
+	<float.h>
+
+1273266832 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3d9caps.h
+
+1273266894 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9math.h
+	"d3dx9.h"
+	<math.h>
+	"d3dx9math.inl"
+
+1273322918 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9math.inl
+
+1273266888 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9core.h
+	"d3dx9.h"
+
+1273266902 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9mesh.h
+	"d3dx9.h"
+	"dxfile.h"
+
+1505040898 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\dxfile.h
+
+1273266908 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9tex.h
+	"d3dx9.h"
+
+1273266904 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9shader.h
+	"d3dx9.h"
+
+1273266890 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9effect.h
+	"d3dx9.h"
+
+1273266904 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9shape.h
+	"d3dx9.h"
+
+1273266882 c:\users\split\documents\flyffo3dreader\flyffo3dreader\directx\d3dx9anim.h
+
+1505044248 source:c:\users\split\documents\flyffo3dreader\flyffo3dreader\ctexturemanager.cpp
+	"CTextureManager.hpp"
+
+1505043964 c:\users\split\documents\flyffo3dreader\flyffo3dreader\ctexturemanager.hpp
+	"Utils.h"
+
+1505071870 source:c:\users\split\documents\flyffo3dreader\flyffo3dreader\hardcopy.cpp
+	"hardcopy.hpp"
+
+1505071667 c:\users\split\documents\flyffo3dreader\flyffo3dreader\hardcopy.hpp
+	"Utils.h"
+	"CTextureManager.hpp"
+	"file.hpp"
+
+1505201150 source:c:\users\split\documents\flyffo3dreader\flyffo3dreader\loadedobject.cpp
+	"LoadedObject.hpp"
+
+1505216841 c:\users\split\documents\flyffo3dreader\flyffo3dreader\loadedobject.hpp
+	"Utils.h"
+	"CTextureManager.hpp"
+	"file.hpp"
+
